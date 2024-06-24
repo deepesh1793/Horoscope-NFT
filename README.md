@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Horoscope web3 NFT Minting Application
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is a fun dapp, deployed on the polygon testnet Amoy, which allows users to set a date (DOB) and mint a horoscope NFT based on it.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
